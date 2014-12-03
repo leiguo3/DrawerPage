@@ -12,7 +12,7 @@ Setup
 * In Eclipse, just import the library as an Android library project. Project > Clean to generate the 
 binaries you need, like R.java, etc.
 * Then, just add DrawerPage as a dependency to your existing project.
-* Make your Activity extends from DrawerPageActivity and everything is ok now.
+* Make your Activity extends from DrawerPageActivity and use the Theme.DrawerPage.Translucent.NoTitleBar or its derivation as Activity theme.
 
 Note: Any Activity that extends DrawerPageActivity must use the Theme.DrawerPage.Translucent.NoTitleBar or its derivation as its theme.
 License
