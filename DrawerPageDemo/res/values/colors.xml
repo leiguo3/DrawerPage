@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bg_blue">#ff3ebdff</color>
+    <color name="text_white">#ffffffff</color>
+    <color name="text_gray">#ff969696</color>
+    <color name="text_black">#ff646464</color>
+    <color name="gray_page_bg">#ffdedede</color>
+    <color name="white_page_bg">#ffffffff</color>
+    <color name="text_white_pressed">#ff0093df</color>
+
+</resources>

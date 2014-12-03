@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">DrawerPageDemo</string>
+    <string name="btn_text_return">Back</string>
+    <string name="btn_text_open_next_page">Open Next Page</string>
+    <string name="next_page_title">IMNext</string>
+
+</resources>
